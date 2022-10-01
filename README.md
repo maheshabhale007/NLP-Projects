@@ -1,2 +1,2 @@
-# nlp_project1
-End to End NLP project with python
+# NLP Projects
+End to End NLP projects with python
